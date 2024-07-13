@@ -1,13 +1,13 @@
-#Movie Recommendation System
+_____Movie Recommendation System_____
 
-#Overview
+__Overview__
 
 
 This project is a Movie Recommendation System built using Python, 
 Streamlit, and the TMDb API. It offers personalized movie suggestions based on content similarity using cosine similarity.
 
 
-#Features
+__Features__
 
 
 
@@ -18,7 +18,7 @@ Real-time Data: Fetches current movie details from TMDb.
 Smart Recommendations: Recommends movies similar to user-inputted preferences.
 
 
-#Technologies
+__Technologies__
 
 
 
