@@ -1,31 +1,29 @@
-# Movie-Recommendation System
+Movie Recommendation System
 
- Highlights:
-
-Easy-to-use Interface: Created with Streamlit for a smooth user experience.
-
-Real-time Data: Fetches movie info directly from TMDb.
-
-Smart Recommendations: Uses content-based filtering and cosine similarity to suggest movies you'll love.
+Overview
 
 
- How It Works:
-
-Data Processing: Cleans and preprocesses movie data.
-
-Feature Extraction: Converts movie features into vectors using TF-IDF.
-
-Similarity Matrix: Calculates cosine similarity between movie vectors.
-
-Recommendations: Suggests movies based on content similarity of the input movie.
+This project is a Movie Recommendation System built using Python, 
+Streamlit, and the TMDb API. It offers personalized movie suggestions based on content similarity using cosine similarity.
 
 
- Tools & Technologies:
+Features
 
-Python: For all the heavy lifting.
 
-Pandas & Scikit-learn: For data manipulation and model building.
 
-Streamlit: For the sleek interface.
+Streamlit Interface: User-friendly interface for easy navigation.
 
-TMDb API: For up-to-date movie data.
+Real-time Data: Fetches current movie details from TMDb.
+
+Smart Recommendations: Recommends movies similar to user-inputted preferences.
+
+
+Technologies
+
+
+
+Python, Pandas, Scikit-learn: Core tools for data processing and modeling.
+
+Streamlit: Framework for creating interactive web apps.
+
+TMDb API: Provides up-to-date movie information.
